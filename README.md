@@ -13,7 +13,7 @@ Please refer to the [examples](/examples) folder:
 <table><tr><td>
 
 <a href="https://youtu.be/JfOzsBi_irY">
-<img border="5" alt="Bazel Tutorial for C++" src="https://raw.githubusercontent.com/ourarash/cpp-template/master/video_thumbnail.jpg" width="400">
+<img border="5" alt="Bazel Tutorial for C++" src="https://raw.githubusercontent.com/ourarash/bazel_tutorial/master/video_thumbnail.png" width="400">
 </a>
 </td></tr></table>
 
