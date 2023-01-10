@@ -7,6 +7,16 @@ Please refer to the [examples](/examples) folder:
 - [example2](/examples/example2): Separating the main.cc and lib files
 - [example3](/examples/example3): Using multiple libs
 
+
+## A Video on how to use this repo:
+
+<table><tr><td>
+
+<a href="https://youtu.be/JfOzsBi_irY">
+<img border="5" alt="Bazel Tutorial for C++" src="https://raw.githubusercontent.com/ourarash/cpp-template/master/video_thumbnail.jpg" width="400">
+</a>
+</td></tr></table>
+
 # Bazel Examples:
 ## Example 1
 Running Example 1:
