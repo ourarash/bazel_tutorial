@@ -1,8 +1,6 @@
-/bazel-Bazel_with_GTest
-/bazel-bin
-/bazel-genfiles
-/bazel-out
-/bazel-testlogs
-/bazel-template
+##
+# gitignore file for bazel projects
+##
+
+# Ignore all generated bazel symlinks.
 /bazel-*
-*.md2
